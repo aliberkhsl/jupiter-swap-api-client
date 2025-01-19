@@ -8,6 +8,6 @@ members = [
 edition = "2021"
 
 [workspace.dependencies]
-solana-sdk = "=2.0.23"
-solana-client = "=2.0.23"
-solana-account-decoder = "=2.0.23"
+solana-sdk = "=2.0.19"
+solana-client = "=2.0.19"
+solana-account-decoder = "=2.0.19"
